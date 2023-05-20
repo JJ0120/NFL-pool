@@ -1,2 +1,2 @@
 # NFL-pool
-Program that reads a text file that has a list of NFL teams selected for a king of the hill NFL pool and counts the number of times a team has been selected.
+This Java program reads a text file which is created from an NFL King of the Hill pool I am apart of during the football season. There is typically 300 plus entries in the pool each season. Therefore, I wanted to create a soultion to be able to count the number of picks that a team recieves each week during the NFL season. This program does that reading line by line the text file and using a HashMap to update teams value in the HashMap.
